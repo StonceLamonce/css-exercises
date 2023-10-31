@@ -1,0 +1,17 @@
+.odd {
+    background:salmon;
+    font-size:20px;
+}
+.adjust-font {
+    font-size:35px;
+}
+#number2 {
+    color:blue;
+    font-size:50px;
+}
+#number4 {
+    background:green;
+    font-size:40px;
+    font-style:bold;
+
+}
